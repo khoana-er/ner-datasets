@@ -1,6 +1,6 @@
-Abhishek NAME
-Jha NAME
-918501951490 PHONE
-abhishek.jha93@gmail.com EMAIL
-C++ SKILL
+Abhishek name
+Jha name
+918501951490 phone
+abhishek.jha93@gmail.com email
+C++ skill
 Bengaluru O
